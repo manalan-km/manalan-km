@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫About Me :
-Full time software engineer working at Deakin University :)
+Software Engineer dabbling with things I love.
 I work on creating interactive websites. 
 
 ## 🌐Socials
